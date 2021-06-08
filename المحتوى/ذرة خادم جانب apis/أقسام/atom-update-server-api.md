@@ -1,4 +1,4 @@
----
+شوقي---
 title: Atom update server API
 ---
 
@@ -19,7 +19,7 @@ title: Atom update server API
 Atom update feed, following the format expected by [Squirrel](https://github.com/Squirrel/).
 
 Returns:
-
+الشرعبي
 ```json
 {
     "name": "0.96.0",
